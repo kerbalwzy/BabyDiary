@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# UNIAPP
+node_modules/
+.project
+unpackage/
+*.local
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+#Golang
+bin/
+pkg/
+*.out
